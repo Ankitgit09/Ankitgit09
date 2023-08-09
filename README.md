@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Ankitgit09
+- 👋 Hi, I’m @Ankit Kumar
 - 👀 I’m interested in ... I.O.T,Web Development, Data Analytics 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... Python and Java works
+- 💞️ I’m looking to collaborate on ... Python projects.
 - 📫 How to reach me ...
-- To reach me contact me :- ankit41156@gamil.com / ankit41156@outlook.com
+- Contact me :- ankit41156@gamil.com / ankit41156@outlook.com
 
 <!---
 Ankitgit09/Ankitgit09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
