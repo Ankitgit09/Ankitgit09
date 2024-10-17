@@ -8,15 +8,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitgit09" alt="ankitgit09" /></a> </p>
 
-- 🔭 I’m currently working on self projects **Web Development, Python, Java , Android Projects**
+- 🔭 I’m currently working on self projects **Web Projects and Python Projects**
 
 - 🌱 I’m currently learning **Artificial intelligence, Flutter, UI/UX**
 
-- 👯 I’m looking to collaborate on **Frontend Projects and Python Projects**
+- 👯  I’m looking to collaborate on making websites that people love to use.
+  
+- 💬 Ask me about python, Web development
+  
+- 📫 How to reach me **ankit41156@gmail.com**
 
-- 📫 How to reach me **ankit41156@gmail.com & ankit41156@outlook.com**
-
-- ⚡ Fun fact **I am curious to know every little things.**
+- ⚡ Fun fact **I am funny :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
