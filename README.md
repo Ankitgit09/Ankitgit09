@@ -1,5 +1,7 @@
-![Black Simple Elegant Personal LinkedIn Banner](https://github.com/Ankitgit09/Ankitgit09/assets/130700525/7099205b-a1e1-45fd-8cb6-190ed91de51b)
-<h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
+![Github   Linkedin](https://github.com/user-attachments/assets/fcbc42bd-7705-4031-a1c2-0c5dd5e3f652)
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Ankit+Kumar..;Web+Developer;Python+Programmer..;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 
 <img align="right" alt="coding" witdth="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
